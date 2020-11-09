@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easygo-ad-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easygo-admin-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easygo-admin-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easygo-brand-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easygo-commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easygo-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easygo-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/easygo-protal-web" charset="UTF-8" />
+  </component>
+</project>
